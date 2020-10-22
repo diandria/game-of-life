@@ -1,10 +1,9 @@
 /*
  * Script para executar o jogo da vida de John Conway
  *
- * @link  do código https://repl.it/join/sipypalw-diandria
- * @author Daiane   - TIA: 4199227-1 
- * @author Diandria - TIA: 3190751-2
- * @author Leonardo - TIA: 4194942-0
+ * @author Daiane
+ * @author Diandria
+ * @author Leonardo
  * @version 1.0
  */
 
